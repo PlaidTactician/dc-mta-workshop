@@ -19,3 +19,4 @@ Then we'll follow along with these.
 - [Part 1](part-1.md) - running Docker on Windows
 - [Part 2](part-2.md) - modernizing the application platform
 - [Part 3](part-3.md) - modernizing the application architecture
+balh bla hblahg
